@@ -1,0 +1,195 @@
+.frame {
+  width: 30vw;
+  margin: auto;
+  height: 100vh;
+}
+
+.btn {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+
+.btnMakkelijk {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 35%;
+  left: 50%;
+}
+
+.btnGemiddeld {
+  background-color: #fff243; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 45%;
+  left: 50%;
+}
+
+.btnMoeilijk {
+  background-color: #fba315; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 55%;
+  left: 50%;
+}
+
+.btnZeerMoeilijk {
+  background-color: #ff5724; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 65%;
+  left: 50%;
+}
+
+.beginBtn {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  font-size: x-large;
+}
+
+.awnser1 {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 35%;
+  left: 50%;
+}
+
+.awnser2 {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 45%;
+  left: 50%;
+}
+
+.awnser3 {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 55%;
+  left: 50%;
+}
+
+.awnser4 {
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 65%;
+  left: 50%;
+}
+
+.question {
+  margin-top: 15%;
+  text-align: center;
+}
+
+.awnserIs {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.awnser {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.straf {
+  color: red;
+  margin-top: 5%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1300px) {
+  .frame {
+    width: 50vw;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .frame {
+    width: 70vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .frame {
+    width: 100vw;
+  }
+}

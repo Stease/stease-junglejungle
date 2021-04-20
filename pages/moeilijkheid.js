@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Moeilijkheid() {
   return (
     <>
       <a href="spelen">Spelen</a>
